@@ -42,4 +42,6 @@ form .display input{
     cursor: pointer;
     margin: 10px;
 }
-.equal{}
+form input.equal{
+    width: 142px;
+}
