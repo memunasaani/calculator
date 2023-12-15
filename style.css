@@ -26,7 +26,7 @@ form .display{
 form .display input{
     text-align: right;
     flex: 1;
-    font-size: 45px;
+    font-size: 100px;
     box-shadow: none;
 }
 .calculator form input{
@@ -44,4 +44,8 @@ form .display input{
 }
 form input.equal{
     width: 142px;
+}
+form input.operator{
+    background: #9c6ab9;
+
 }
